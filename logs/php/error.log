@@ -42,3 +42,4 @@ Stack trace:
 [02-Jul-2024 10:02:53 UTC] PHP Warning:  Undefined variable $maxitems in C:\Users\Lenovo\Local Sites\sayna-space\app\public\wp-content\plugins\happy-elementor-addons\classes\dashboard-widgets.php on line 107
 [02-Jul-2024 10:04:28 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
 [18-Jul-2024 16:45:50 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[19-Jul-2024 10:19:09 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
