@@ -1,11 +1,11 @@
-2024-07-01T15:47:18+00:00 ERROR Error getting data feed
-2024-07-01T15:47:18+00:00 ERROR WP_Error Object
+2024-08-01T04:10:04+00:00 ERROR Error getting data feed
+2024-08-01T04:10:04+00:00 ERROR WP_Error Object
 (
     [errors] => Array
         (
             [http_request_failed] => Array
                 (
-                    [0] => cURL error 28: Operation timed out after 5007 milliseconds with 4811 bytes received
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
                 )
 
         )
@@ -20,14 +20,14 @@
 
 )
 
-2024-07-01T15:47:23+00:00 ERROR Error getting data feed
-2024-07-01T15:47:23+00:00 ERROR WP_Error Object
+2024-08-01T04:10:04+00:00 ERROR Error getting data feed
+2024-08-01T04:10:04+00:00 ERROR WP_Error Object
 (
     [errors] => Array
         (
             [http_request_failed] => Array
                 (
-                    [0] => cURL error 28: Operation timed out after 5003 milliseconds with 3440 bytes received
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
                 )
 
         )
